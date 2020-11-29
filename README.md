@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile        
 ---
-I'm a (soon-to-be) Software Engineer currently working on a variety of projects across a number of fields. See my pins below to see a sample of these; we've got something for everyone, from UNO to Haskell insanity. Currently trying to finish my final semester @ UQ so I can get onto my own projects.
+I'm a a Software Engineer currently working on a variety of projects across a number of fields. See my pins below to see a sample of these; we've got something for everyone, from UNO to Haskell insanity. Currently working @clipchamp as a dev-ops engineer and making Vita homebrew. 
 
 🚺 // 🆚 Code advocate // Huge fan of 🎃
 
