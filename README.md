@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile        
 ---
-I'm a a Software Engineer currently working on a variety of projects across a number of fields. See my pins below to see a sample of these; we've got something for everyone, from UNO to Haskell insanity. Currently working @google.
+I'm a a Software Engineer currently working on a variety of projects across a number of fields. See my pins below to see a sample of these; we've got something for everyone, from UNO to Haskell insanity. 
 
 🚺 // 🆚 Code advocate // Huge fan of 🎃
 
