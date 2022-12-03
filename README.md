@@ -1,8 +1,8 @@
 ### Welcome to my GitHub profile        
 ---
-I'm a a Software Engineer currently working on a variety of projects across a number of fields. See my pins below to see a sample of these; we've got something for everyone, from UNO to Haskell insanity. 
+Here you'll find some of my older projects and various bits and bobs that I contribute to when I'm feeling up to it. 
 
-🚺 // 🆚 Code advocate // Huge fan of 🎃
+🚺 // Huge fan of 🎃 // SRE
 
 
 <!--
